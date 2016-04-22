@@ -1,6 +1,8 @@
 CodeIgniter AngularJS App
 =========================
 
+http://resultakak.github.io/angularjs-codeigniter-app
+
 Sample App based on CodeIgniter 3.x and AngularJS 1.x.
 
 This is very simple example - CRUD.
